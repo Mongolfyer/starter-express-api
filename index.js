@@ -195,3 +195,5 @@ function hostAction(connection, message) {
 			break;
 	}
 }
+
+console.log("YesMan");
